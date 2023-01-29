@@ -1,0 +1,7 @@
+torch
+transformers
+sentencepiece
+colabcode
+flask
+flask-ngrok
+jinja2
