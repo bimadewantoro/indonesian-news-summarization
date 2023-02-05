@@ -1,1 +1,1 @@
-# indonesian-news-summarization
+# Indonesian Text Summarization
